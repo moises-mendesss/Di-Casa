@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Dependencies (caso venha a usar Node no futuro)
+node_modules/
+
+# Env / secrets
+.env
+.env.local
+
+# Logs
+*.log
+
+# Claude Code local settings
+.claude/
